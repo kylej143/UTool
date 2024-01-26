@@ -5,7 +5,7 @@ It solves: Project -> Analyze Circuit -> Export Table, this returns a txt file, 
 
 or
 
-You can also copy paste the body of a tex file format table (see picture below) as a tex file or txt (same thing).
+You can also copy paste the body of a tex file format table (see the last picture below) as a tex file or txt (same thing).
 
 ![TTC.png](image%2FTTC.png)
 
