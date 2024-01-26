@@ -10,13 +10,10 @@ You can also copy paste the body of a tex file format table (see the last pictur
 ![TTC.png](image%2FTTC.png)
 
 # How to use?
-Run it on python! (preferably)
+Run it on python!
 
 1. Git Clone or Copy the src/truthtable_converter into your directory.
 2. With Python run main.py (src/truthtable_converter/main.py)
-
-*NOT RECOMMENDED*
-TO Download TTconverter.exe, or other format, you need to disable your security while you do it. (Your antivirus will probably mark it as a virus) (Trojan:Win32/Wacatac.B!ml) (Hurray for Machine Learning False Positives!)
 
 See below for example on what the logism/tex file should look like:
 (and yes the \hline is needed)
